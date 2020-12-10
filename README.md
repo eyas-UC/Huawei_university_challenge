@@ -19,8 +19,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield-eyas]][linkedin-url-eyas]
-[![LinkedIn][linkedin-shield-khaled]][linkedin-url-khaled]
+[![LinkedIn][linkedin-eyas-shield]][linkedin-eyas-url]
+[![LinkedIn][linkedin-khaled-shield]][linkedin-khaled-url]
 
 
 <!-- TABLE OF CONTENTS -->
