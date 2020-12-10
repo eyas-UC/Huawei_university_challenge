@@ -85,6 +85,8 @@ Huawei University Challenge in its first first version was focusing on “Real-T
 
 [!Huawei University Challenge](C:/Users/kalee/Desktop/huawei.png)
 
+
+
 ## Implementation
 
 We developed a neural network on a real-time embedded system based on Erika (RTOS) that capable to distinguish the existence of an object (car). The real application we tried to reflect is an autonomous vehicle that has the capabilities to recognize its surrender (i.e. a real-time surveillance camera) with high sensitivity. Because of compatibility, we used a series of car images as a prototype of the real-time system. Nevertheless, the gyroscope which is available on the embedded system has been used for some functionality.
