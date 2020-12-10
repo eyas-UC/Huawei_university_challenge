@@ -11,23 +11,7 @@
 in our case w and b are known matrices and can be entered or hard stored in the stm32
 
 in our model layers_dims = [4096, 6,8, 4, 1]
-int Relu( int x )// x will be an array
-{
-// add for loop to cover all the elements of the matrix x
-	if (x>0)
-	{
-		return x
-	}
-	else
-	{
-		return 0
-	}
-}
 
-layer 1 6 neurons  Activation type(Relu)
-layer 2 8 neurons type(Relu)
-layer 3 4 neorons type(Relu)
-layer 4 1 neuron  type(sigmoid)
 
 linear_activation_forward(activation = "relu")->linear_forward(X,W1,b1)--->Z1----activation(relu)--->A1
 linear_activation_forward(activation = "relu")->linear_forward(A1,W2,b2)--->Z2----activation(relu)--->A2
@@ -78,54 +62,18 @@ get A1
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+      <a href="#Implementation">Implementation</a></li>
+      <a href="#installation">Installation</a></li>
+      <a href="#contributing">Contributing</a></li>
+      <a href="#license">License</a></li>
+      <a href="#contact">Contact</a></li>
+    </li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -138,16 +86,18 @@ Huawei University Challenge in its first first version was focusing on “Real-T
 
 [![Huawei University Challenge][product-screenshot]](C:/Users/kalee/Desktop/huawei.png)
 
+## Implementation
+
 We developed a neural network on a real-time embedded system based on Erika (RTOS) that capable to distinguish the existence of an object (car). The real application we tried to reflect is an autonomous vehicle that has the capabilities to recognize its surrender (i.e. a real-time surveillance camera) with high sensitivity. Because of compatibility, we used a series of car images as a prototype of the real-time system. Nevertheless, the gyroscope which is available on the embedded system has been used for some functionality.
 
 The dataset which we used was extracted by [(GTI) of Universidad Politécnica de Madrid (UPM) research group](file:///C:/Users/kalee/Desktop/car_camera_front_view/Vehicle_database_OwnCollection.html) from a video sequences. The images have 64x64 and are cropped from sequences of 360x256 pixels recorded in highways of Madrid, Brussels and Turin.
 
-### Dependencies 
+## Dependencies 
 
 The neural network has been trained using Python 3.6. The parameters (weight & bias) of the trained neural network have been deployed in STM32F429 using C. The unclassified images (test set) are sent via virtual COMM to the STM to decide (based on the fitted model) either the image containing a car or not and display the result on the screen.
 
 
-### Installation
+## Installation
 
 The database is open for use of other researchers and can be downloaded [here](http://www.gti.ssr.upm.es/~jal/download.html)
 
