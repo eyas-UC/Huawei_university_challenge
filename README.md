@@ -20,7 +20,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield-eyas]][linkedin-url-eyas][![LinkedIn][linkedin-shield-khaled]][linkedin-url-khaled]
 
 
 <!-- TABLE OF CONTENTS -->
@@ -112,7 +112,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: (<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="153.5" height="28" role="img" aria-label="CONTRIBUTORS: 5"><title>CONTRIBUTORS: 2</title><g shape-rendering="crispEdges"><rect width="125" height="28" fill="#555"/><rect x="125" width="28.5" height="28" fill="#4c1"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text fill="#fff" x="625" y="175" transform="scale(.1)" textLength="1010">CONTRIBUTORS</text><text fill="#fff" x="1392.5" y="175" font-weight="bold" transform="scale(.1)" textLength="45">5</text></g></svg>)
+[contributors-shield]:
 [contributors-url]: https://github.com/KhaledAlamin/Huawei_embedded_dnn/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/KhaledAlamin/Huawei_embedded_dnn/network/members
