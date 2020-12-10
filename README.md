@@ -66,14 +66,13 @@ get A1
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <a href="#Implementation">Implementation</a></li>
-      <a href="#installation">Installation</a></li>
-      <a href="#contributing">Contributing</a></li>
-      <a href="#license">License</a></li>
-      <a href="#contact">Contact</a></li>
-    </li><a href="#acknowledgements">Acknowledgements</a></li>
+      <li><a href="#about-the-project">About The Project</a>
+      <li><a href="#Implementation">Implementation</a></li>
+      <li><a href="#installation">Installation</a></li>
+      <li><a href="#contributing">Contributing</a></li>
+      <li><a href="#license">License</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
