@@ -45,7 +45,7 @@
 
 Huawei University Challenge in its first first version was focusing on “Real-Time Intelligent and Automotive Applications”: automotive embedded software is becoming more and more crucial to guarantee low fuel consumption, respect of pollution parameters, or a longer life-time of mechanical components. In this content, Huawei introduces this challenge to open the participation to the broad audience from different backgrounds and experiences to accommodate these skills on a real-time application that may improve an existing challenge or add a new feature that does not exist (https://tree.it/huawei-italy-university-challenge/).
 
-[!Huawei University Challenge](Images/huawei_challange.png)
+[!Huawei University Challenge](/Images/huawei_challange.png)
 
 
 
