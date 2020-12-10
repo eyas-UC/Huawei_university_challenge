@@ -16,11 +16,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn Eyas][linkedin-eyas-shield]][linkedin-eyas-url]
-[![LinkedIn Khaled][linkedin-khaled-shield]][linkedin-khaled-url]
+[![LinkedInEyas][linkedin-eyas-shield]][linkedin-eyas-url]
+[![LinkedInKhaled][linkedin-khaled-shield]][linkedin-khaled-url]
 
 
 <!-- TABLE OF CONTENTS -->
