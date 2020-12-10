@@ -85,11 +85,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-
-<!--Khaled Alamin - [@LinkedIn](https://www.linkedin.com/in/khaled-alamin/)
-Eyas Elhadi
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
--->
+Eyas Ali - [@LinkedIn](https://www.linkedin.com/in/eyasali/)
+Khaled Alamin - [@LinkedIn](https://www.linkedin.com/in/khaled-alamin/)
+<!--Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)-->
 
 
 <!-- ACKNOWLEDGEMENTS -->
