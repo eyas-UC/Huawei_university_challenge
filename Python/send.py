@@ -1,16 +1,14 @@
 import time
 import serial
-from class_send import *
+from class_convert import *
 
 inst = test_data()
 input_ = inst.get_mat()
-
-single = (input_[:, 500])
-# print(single.tolist())
-# print(input_)
+# convert numpy array to list
 lista = input_.tolist()
 # print((lista))
 s = []
+# get 7 floating point from any number stored in the list then add them agaim in a new list
 for i in single:
     i = format(i, '.7f')
 
