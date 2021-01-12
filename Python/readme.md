@@ -2,6 +2,9 @@ In the notebook, the training of the model has been developed using neural netwo
 
 
 linear_activation_forward(activation = "relu")->linear_forward(X,W1,b1)--->Z1----activation(relu)--->A1
+
 linear_activation_forward(activation = "relu")->linear_forward(A1,W2,b2)--->Z2----activation(relu)--->A2
+
 linear_activation_forward(activation = "relu")->linear_forward(A2,W3,b)--->Z3----activation(relu)--->A3
+
 linear_activation_forward(activation = "sigmoid")->linear_forward(A3,W4,b)--->Z----activation(sigmoid)--->A4
