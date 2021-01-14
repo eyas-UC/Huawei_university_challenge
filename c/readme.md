@@ -1,4 +1,4 @@
-In this challange the host provided us with [STM32F429I-DISC1](https://www.st.com/en/evaluation-tools/32f429idiscovery.html) board with [ERIKA Enterprise v3](http://www.erika-enterprise.com/). 
+In this challange the host provided us with [STM32F429I-DISC1](https://www.st.com/en/evaluation-tools/32f429idiscovery.html) board icluding [ERIKA Enterprise v3](http://www.erika-enterprise.com/) RTOS. 
 
 Building and running ERIKA Enterprise v3 application for STM32F429I-DISC1 boards:
 
