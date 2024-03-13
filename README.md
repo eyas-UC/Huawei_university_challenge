@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Eyas Ali - [@LinkedIn](https://www.linkedin.com/in/eyasali/)
+Eyas Ali - [@LinkedIn](https://www.linkedin.com/in/eyas-ali/)
 Khaled Alamin - [@LinkedIn](https://www.linkedin.com/in/khaled-alamin/)
 <!--Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)-->
 
