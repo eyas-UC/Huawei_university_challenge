@@ -74,7 +74,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
+[![YouTube](http://i.ytimg.com/vi/C0ur-UBjmIw/hqdefault.jpg)](https://www.youtube.com/watch?v=C0ur-UBjmIw)
 
 <!-- LICENSE -->
 ## License
